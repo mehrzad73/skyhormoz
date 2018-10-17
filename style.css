@@ -607,7 +607,45 @@ a:hover, a:active {
         width: calc(50% - 100px);
     }
 }
+/*--------------------------------------------------------------
+# visa
+--------------------------------------------------------------*/
+.v-head{
+		background-color:#00aeef;
+		color:white;
+		text-align:centre;
+		padding:13px 0;
+		display:block;
+}	
 
+.entry-title{
+	text-align:center;
+	font-style:italic;
+	font-weight:normal;
+}
+
+.visa-headers{
+	
+    text-align:justify;
+   color:black;
+
+}
+.visa-list{
+	text-align:justify;
+	color:#585959;
+}
+.to-do{
+	text-align:justify;
+	color:black;
+}
+.visa-defination{
+color:black;
+text-align:centre;
+}
+.topic{
+	color:black;
+	text-align:justify;	
+}
 /*--------------------------------------------------------------
 # Page Header
 --------------------------------------------------------------*/
